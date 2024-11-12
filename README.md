@@ -4,7 +4,7 @@ repo for our Final Project on the COVID-19 dataset
 # Project Title: Our Title
 
 ## Description
-Our description/overview of the project goals and objectives
+We’d like to investigate the relationship between an increase in COVID-19 cases and an increase in Tweets professing a negative sentiment towards the government. We want to further examine this potential relationship between “red” and “blue” states. Our Null Hypothesis is that, with the increase in COVID-19 reported cases, the number of tweets professing a negative perspective towards the government would increase at a higher rate in “red” states than it would in “blue” states.
 
 ## Repo Structure
 - `code/` directory: Contains all the scripts used in this project.
@@ -12,5 +12,6 @@ Our description/overview of the project goals and objectives
 
 ## Data Storage
 The data for this project is stored in this cloud folder: [link]
-Professor Chang shared the dataset with us
+Professor Chang shared the dataset with us.
+Note written on 11/11: we're waiting for the Prof to share the data with us, which is why there is currently no link above on this date. No pressure, though! We understand that the term is busy.
 
