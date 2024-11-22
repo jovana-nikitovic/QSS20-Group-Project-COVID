@@ -15,6 +15,8 @@ We’d like to investigate the relationship between an increase in COVID-19 case
 #### [00_outputs_mias_topic](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/00_outputs_mias_topic)
 - file ?????? contains the visualization for the ???????
 
+#### [01_outputs_alexas_topic](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/01_outputs_alexas_topic)
+- file ?????? contains the visualization for the ???????
 
 #### [02_outputs_jovanas_topic](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/02_outputs_jovanas_topic)
 - file [00_international_sent.png](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/02_outputs_jovanas_topic/00_international_sent.png) contains the visualization for the International Sentiment Score ~ Bottom 10 and Top 10
