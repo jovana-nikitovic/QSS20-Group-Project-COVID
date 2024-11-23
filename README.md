@@ -16,6 +16,19 @@ We’d like to investigate the relationship between an increase in COVID-19 case
 - file 00_vaccination_avg.png is a bar graph reflecting various sentiment scores by political affiliation for the key word "vaccination"
 - file 01_vaccination_distrib.png reflects the sentiment score distribution by political affiliation for the key word "vaccination"
 - file 02_vaccination_kde.png is a kde plot reflecting various sentiment scores by political affiliation for the key word "vaccination"
+- file 03_vaccination_tukey reflects the results of several significance tests on our findings for the key word "vaccination"
+- file 04_lockdown_avg.png is a bar graph reflecting various sentiment scores by political affiliation for the key word "covid lockdown"
+- file 05_lockdown_distrib.png reflects the sentiment score distribution by political affiliation for the key word "covid lockdown"
+- file 06_lockdown_kde.png is a kde plot reflecting various sentiment scores by political affiliation for the key word "covid lockdown"
+- file 07_lockdown_tukey reflects the results of several significance tests on our findings for the key word "covid lockdown"
+- file 08_tracing_avg.png is a bar graph reflecting various sentiment scores by political affiliation for the key word "contact tracing"
+- file 09_tracing_distrib.png reflects the sentiment score distribution by political affiliation for the key word "contact tracing"
+- file 10_tracing_kde.png is a kde plot reflecting various sentiment scores by political affiliation for the key word "contact tracing"
+- file 11_tracing_tukey reflects the results of several significance tests on our findings for the key word "contact tracing"
+- file 12_biden_avg.png is a bar graph reflecting various sentiment scores by political affiliation for the key word "biden"
+- file 13_biden_distrib.png reflects the sentiment score distribution by political affiliation for the key word "biden"
+- file 14_biden_kde.png is a kde plot reflecting various sentiment scores by political affiliation for the key word "biden"
+- file 15_biden_tukey reflects the results of several significance tests on our findings for the key word "biden"
 
 #### [01_outputs_alexas_topic](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/01_outputs_alexas_topic)
 - file ?????? contains the visualization for the ???????
