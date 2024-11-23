@@ -1,7 +1,7 @@
 # QSS20-Group-Project-COVID
-repo for our Final Project on the COVID-19 dataset
+repo for our Final Project on the COVID-19 Twitter dataset
 
-# Project Title: Our Title
+# Project Title: Our Title!!!!???? hahah
 
 ## Description
 This project focuses on a public Twitter dataset from the time of the pandemic, with the dataset’s observations representing users’ tweets pertaining to the topics regarding COVID-19. Our primary research question investigates how a user’s sentiment score varies across several factors such as political affiliation, economic conditions, pandemic-related keywords, and other social and demographic markers.
@@ -73,5 +73,6 @@ In addition to these primary factors, we extended our analysis to include second
 
 ## Data Storage
 The data for this project is stored in this cloud folder: https://drive.google.com/drive/u/0/folders/1ACR_1iMMNfYeT77auRCKCw14l_EnXKbc
-Professor Chang shared the dataset with us. Thank you so much!
+Professor Chang shared these datasets with us. Thank you so much!
+We focused mainly on the dataset named "econ_sample.pkl", as well as the US-electoral data of presidential results in 2020 from the following website: https://www.cnn.com/election/2020/results/president
 
