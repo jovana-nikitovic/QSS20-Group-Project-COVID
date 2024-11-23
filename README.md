@@ -4,7 +4,11 @@ repo for our Final Project on the COVID-19 dataset
 # Project Title: Our Title
 
 ## Description
-We’d like to investigate the relationship between an increase in COVID-19 cases and an increase in Tweets professing a negative sentiment towards the government. We want to further examine this potential relationship between “red” and “blue” states. Our Null Hypothesis is that, with the increase in COVID-19 reported cases, the number of tweets professing a negative perspective towards the government would increase at a higher rate in “red” states than it would in “blue” states.
+This project focuses on a public Twitter dataset from the time of the pandemic, with the dataset’s observations representing users’ tweets pertaining to the topics regarding COVID-19. Our primary research question investigates how a user’s sentiment score varies across several factors such as political affiliation, economic conditions, pandemic-related keywords, and other social and demographic markers.
+
+Political affiliation was central to our study, given the significant role that partisan perspectives played in shaping public attitudes toward health measures, economic policies, and government interventions during the pandemic. Similarly, economic themes in tweets were explored to gauge public sentiment about financial stability and policy responses. Pandemic-related keywords further enabled a deeper analysis of how specific topics, such as vaccination, contact tracing, or the country’s ruler (e.g. the Biden administration in the United States during the peak time period of the virus) influenced sentiment trends.
+
+In addition to these primary factors, we extended our analysis to include secondary components that might also affect sentiment. These included social markers such as the user’s verification status and the number of friends in their network. Furthermore, we also considered temporal trends based on tweet timestamps and geographical influences derived from the user's reported location of posting. The analysis acknowledged both the international nature of the dataset and the US-specific users. However, given that the majority of postings (observations in the dataset) originated in the United States, our project focused on those users. Altogether, the above mentioned variables provide a comprehensive view of the sentiment dynamics across a diverse population.
 
 ## Repo Structure
 ### Code:
