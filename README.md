@@ -24,7 +24,7 @@ In addition to these primary factors, we extended our analysis to include second
 - It utilizes multiple methods of statistical significance testing such as the Shapiro-Wilk test, Levene’s test for equal variances, the Kruskal-Wallis test, and the Tukey Honest Significant Difference Test to evaluate the robustness of certain keywords (using 5% or 10% significance levels).
 
 ##### Outputs:
--Visualizations described in the Outputs section of this repo and statistical significance tests. 
+- Visualizations described in the Outputs section of this repo and the results of several statistical significance tests. 
 
 #### [02_jovana.ipynb](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/code/02_jovana.ipynb)
 ##### Takes in:
