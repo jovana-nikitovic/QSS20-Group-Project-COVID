@@ -19,9 +19,10 @@ In addition to these primary factors, we extended our analysis to include second
 - This is the Public Tweet dataset of Twitter users' posts during the time of the COVID-19
 - Furthermore, it is subsetted down to keywords pertaining to the economy, government, and institutional regulations that Professor Chang kindly shared with us
 ##### What it does:
-- The notebook creates several bar graph, box plot, and KDE plot visualizations of sentiment score by political affiliation for several keywords.
-- It utilizes multiple methods of statistical significance testing to evaluate the robustness of certain keywords.
-- It calculates the mean average sentiment score by political affiliation and compares it across keywords. 
+- The notebook creates several bar graph, box plot, and KDE plot visualizations of sentiment score by political affiliation for statistically significant keywords.
+- It calculates the mean average sentiment score by political affiliation for over 20 keywords and tests whether they are well-represented in the dataset.
+- It utilizes multiple methods of statistical significance testing such as the Shapiro-Wilk test, Levene’s test for equal variances, the Kruskal-Wallis test, and the Tukey Honest Significant Difference Test to evaluate the robustness of certain keywords (using 5% or 10% significance levels).
+
 ##### Outputs:
 -Visualizations described in the Outputs section of this repo and statistical significance tests. 
 
