@@ -15,14 +15,15 @@ In addition to these primary factors, we extended our analysis to include second
 `code/` directory: Contains all the scripts used in this project. Clicking on each of the notebook names will lead you to them:
 #### [00_mia.ipynb](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/code/00_mia.ipynb)
 ##### Takes in:
-- Blah Blah
-- Blah Blah
+- The "econ_sample.pkl" pickle file
+- This is the Public Tweet dataset of Twitter users' posts during the time of the COVID-19
+- Furthermore, it is subsetted down to keywords pertaining to the economy, government, and institutional regulations that Professor Chang kindly shared with us
 ##### What it does:
-- Blah Blah
-- Blah Blah
+- The notebook creates several bar graph, box plot, and KDE plot visualizations of sentiment score by political affiliation for several keywords.
+- It utilizes multiple methods of statistical significance testing to evaluate the robustness of certain keywords.
+- It calculates the mean average sentiment score by political affiliation and compares it across keywords. 
 ##### Outputs:
-- Blah Blah
-- Blah Blah
+-Visualizations described in the Outputs section of this repo and statistical significance tests. 
 
 #### [02_jovana.ipynb](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/code/02_jovana.ipynb)
 ##### Takes in:
