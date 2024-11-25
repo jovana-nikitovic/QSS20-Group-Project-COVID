@@ -1,7 +1,7 @@
 # QSS20-Group-Project-COVID
 repo for our Final Project on the COVID-19 Twitter dataset
 
-# Project Title: Our Title!!!!???? hahah
+# Project Title: Tweet Sentiment Score During COVID-19 Pandemic Across Political Affiliation
 
 ## Description
 This project focuses on a public Twitter dataset from the time of the pandemic, with the dataset’s observations representing users’ tweets pertaining to the topics regarding COVID-19. Our primary research question investigates how a user’s sentiment score varies across several factors such as political affiliation, economic conditions, pandemic-related keywords, and other social and demographic markers.
@@ -24,7 +24,20 @@ In addition to these primary factors, we extended our analysis to include second
 - It utilizes multiple methods of statistical significance testing such as the Shapiro-Wilk test, Levene’s test for equal variances, the Kruskal-Wallis test, and the Tukey Honest Significant Difference Test to evaluate the robustness of certain keywords (using 5% or 10% significance levels).
 
 ##### Outputs:
-- Visualizations described in the Outputs section of this repo and the results of several statistical significance tests. 
+- Visualizations described in the Outputs section of this repo and the results of several statistical significance tests.
+
+#### [01_alexa.ipynb](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/code/01_alexa.ipynb)
+#### Takes in: 
+- The "econ_sample.pkl" pickle file
+- This is the Public Tweet dataset of Twitter users' posts during the time of the COVID-19
+- Furthermore, it is subsetted down to keywords pertaining to the economy, government, and institutional regulations that Professor Chang kindly shared with us
+#### What it does:
+- This notebook creates a new column called "political_affil" that designate each state to the political party (Republican (Red), Democrat (Blue), and Flip (Purple)) they had a majority of in the 2020 election.
+- It creates a new dataframe for each graph that selects five states with the most tweets from each political party.
+- It creates line graphs that chart the change in sentiment score over time of respective keywords from tweets from each political party's top five states.
+- On each graph it adds annotations that include important information regarding events that were relevant at that point in time.
+#### Outputs:
+- Line graphs that display the change in sentiment score regarding certain keywords over time for the three political parties, and includes annotations that refer to current events of the time.
 
 #### [02_jovana.ipynb](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/code/02_jovana.ipynb)
 ##### Takes in:
@@ -61,7 +74,10 @@ In addition to these primary factors, we extended our analysis to include second
 - file 15_biden_tukey reflects the results of several significance tests on our findings for the key word "biden"
 
 #### [01_outputs_alexas_topic](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/01_outputs_alexas_topic)
-- file ?????? contains the visualization for the ???????
+- file 00_sentiment_analysis_overall.png is a line graph over months that illustrates the change in sentiment of all tweets with relevant keywords across political affiliation
+- file 01_sentiment_analysis_biden.png is a line graph over months that illustrates the change in sentiment of all tweets with the keyword "biden" across political affiliation. The graph also includes annotations that mention relevant events.
+- file 02_sentiment_analysis_vaccination.png is a line graph over months that illustrates the change in sentiment of all tweets with the keyword "vaccination" across political affiliation. The graph also includes annotations that mention relevant events.
+- file 03_sentiment_analysis_stimulus.png is a line graph over months that illustrates the change in sentiment of all tweets with the keyword "stimulus" across political affiliation. The graph also includes annotations that mention relevant events.
 
 #### [02_outputs_jovanas_topic](https://github.com/jovana-nikitovic/QSS20-Group-Project-COVID/blob/main/output/02_outputs_jovanas_topic)
 - file 00_international_sent.png contains the visualization for the International Sentiment Score ~ Bottom 10 and Top 10
