@@ -4,7 +4,7 @@ repo for our Final Project on the COVID-19 Twitter dataset
 # Project Title: Tweet Sentiment Score During COVID-19 Pandemic Across Political Affiliation
 
 ## Description
-This project focuses on a public Twitter dataset from the time of the pandemic, with the dataset’s observations representing users’ tweets pertaining to the topics regarding COVID-19. Our primary research question investigates how a user’s sentiment score varies across several factors such as political affiliation, economic conditions, pandemic-related keywords, and other social and demographic markers.
+This project focuses on a public Twitter dataset from the time of the pandemic, with the dataset’s observations representing users’ tweets pertaining to the topics regarding COVID-19. Our primary question investigates how a user’s sentiment score varies across several factors such as political affiliation, economic conditions, pandemic-related keywords, and other social and demographic markers.
 
 Political affiliation was central to our study, given the significant role that partisan perspectives played in shaping public attitudes toward health measures, economic policies, and government interventions during the pandemic. Similarly, economic themes in tweets were explored to gauge public sentiment about financial stability and policy responses. Pandemic-related keywords further enabled a deeper analysis of how specific topics, such as vaccination, contact tracing, or the country’s ruler (e.g. the Biden administration in the United States during the peak time period of the virus) influenced sentiment trends.
 
