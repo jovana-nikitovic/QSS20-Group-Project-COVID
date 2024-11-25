@@ -87,7 +87,10 @@ In addition to these primary factors, we extended our analysis to include second
 - file 04_friends_political_distr_box.png contains the visualization for the Distribution of Friends Count based on Political Affiliation
 - file 05_linear_regressions.png contains the table for the three Linear Regressions (univatiate, bivariate, and bivariate where the continuous feature is log-normalized), listed in terms of predictive performance
 - file 06_logistic_regressions.png contains the table for the two Multinominal Logistic Regressions, differing in terms of the response variable (four categories versus three categories in the prediction)
-- file 07_confusion_mat_logistic.png contains the two tables displaying Confusion Matrices for each of the abovementioned Multinominal Logistic Regressions (in order to display class imbalance for the first model and demonstrate how looking at the accuracy measure alone can be misleading without looking at the accompanying Macro Avg. and Weighted Avg. metrics)
+- file 07_logistic1_confusion_mat.png contains the Confusion Matrix for Logistic Regression 1 (4 categories)
+- file 08_logistic1_class_rep.png contains the Classification Report for Logistic Regression 1 (4 categories)
+- file 09_logistic2_confusion_mat.png contains the Confusion Matrix for Logistic Regression 2 (3 categories)
+- file 10_logistic2_class_rep.png contains the Classification Report for Logistic Regression 2 (3 categories)
 
 ## Data Storage
 The data for this project is stored in this cloud folder: https://drive.google.com/drive/u/0/folders/1ACR_1iMMNfYeT77auRCKCw14l_EnXKbc
