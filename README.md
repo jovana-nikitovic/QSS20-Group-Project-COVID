@@ -91,6 +91,7 @@ In addition to these primary factors, we extended our analysis to include second
 - file 08_logistic1_class_rep.png contains the Classification Report for Logistic Regression 1 (4 categories)
 - file 09_logistic2_confusion_mat.png contains the Confusion Matrix for Logistic Regression 2 (3 categories)
 - file 10_logistic2_class_rep.png contains the Classification Report for Logistic Regression 2 (3 categories)
+- file 11_count_breakdown.png contains the Table of the Breakdown of our Dataset by State, Political Affiliation, and Count
 
 ## Data Storage
 The data for this project is stored in this cloud folder: https://drive.google.com/drive/u/0/folders/1ACR_1iMMNfYeT77auRCKCw14l_EnXKbc
